@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "820258452780",
+    "firebase_url": "https://momsmagicindianfoodrecipe.firebaseio.com",
+    "project_id": "momsmagicindianfoodrecipe",
+    "storage_bucket": "momsmagicindianfoodrecipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820258452780:android:62fadb5b02db7886",
+        "android_client_info": {
+          "package_name": "com.pulimoottil.richu.momsmagic_indianfoodrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820258452780-td7sur2flldee8fofhrlrk0gvgjehi61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pulimoottil.richu.momsmagic_indianfoodrecipe",
+            "certificate_hash": "5a1734b05ed709bd1ec8199b5e0a6e1e9e0f0f41"
+          }
+        },
+        {
+          "client_id": "820258452780-l2qvdffq7tjr6r2a66u58nnbvedmgt2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGMHi9UQIemfy_eFHyoHJAlUf-YtOJSts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820258452780-l2qvdffq7tjr6r2a66u58nnbvedmgt2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820258452780:android:1f6de7ee567ea4a1",
+        "android_client_info": {
+          "package_name": "com.pulimoottil.richucom.pulimoottil.richu.momsmagic_indianfoodrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820258452780-l2qvdffq7tjr6r2a66u58nnbvedmgt2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGMHi9UQIemfy_eFHyoHJAlUf-YtOJSts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-8475605926979175~3307231298"
+    }
+  ],
+  "configuration_version": "1"
+}
